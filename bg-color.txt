@@ -1,0 +1,5 @@
+#0A3465
+
+<div class="center-img">
+            <img src="images/bg-img.png" alt="">
+        </div>
